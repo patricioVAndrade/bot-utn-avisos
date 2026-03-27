@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="700" viewBox="0 0 1200 700" role="img" aria-label="Vista previa Telegram">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0f172a"/>
+      <stop offset="100%" stop-color="#111827"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="700" fill="url(#bg)"/>
+  <rect x="90" y="70" width="1020" height="560" rx="24" fill="#1f2937"/>
+  <rect x="90" y="70" width="1020" height="70" rx="24" fill="#111827"/>
+  <text x="130" y="115" fill="#e5e7eb" font-size="30" font-family="Segoe UI, Arial, sans-serif" font-weight="700">Telegram - Aviso nuevo</text>
+  <rect x="130" y="180" width="940" height="380" rx="16" fill="#0b3b5f"/>
+  <text x="170" y="240" fill="#e5f3ff" font-size="24" font-family="Segoe UI, Arial, sans-serif" font-weight="700">Nuevo aviso UTN</text>
+  <text x="170" y="285" fill="#dbeafe" font-size="20" font-family="Segoe UI, Arial, sans-serif">Materia: Algebra y Geometria Analitica</text>
+  <text x="170" y="320" fill="#dbeafe" font-size="20" font-family="Segoe UI, Arial, sans-serif">Docente: Perez, Juan</text>
+  <text x="170" y="355" fill="#dbeafe" font-size="20" font-family="Segoe UI, Arial, sans-serif">Mensaje: Se suspende la clase del jueves.</text>
+  <text x="170" y="390" fill="#dbeafe" font-size="20" font-family="Segoe UI, Arial, sans-serif">Fecha: 27/03/2026</text>
+  <text x="170" y="455" fill="#93c5fd" font-size="18" font-family="Segoe UI, Arial, sans-serif">Ejemplo visual. Reemplaza este archivo por una captura real si quieres.</text>
+</svg>
