@@ -21,7 +21,7 @@ URL_NOTAS = "https://www.frc.utn.edu.ar/academico3/mensajes.frc?tipo=NOTAS"
 
 def enviar_telegram(mensaje):
     url = f"https://api.telegram.org/bot{TELEGRAM_TOKEN}/sendMessage"
-    mensaje_con_firma = f"{mensaje}\n\n🤖 <i>Made by Pato</i>"
+    mensaje_con_firma = f"{mensaje}\n\n🤖 <i>Desarrollado por Pato (y un poco bastante de IA)</i>"
     data = {"chat_id": CHAT_ID, "text": mensaje_con_firma, "parse_mode": "HTML"}
     try:
         requests.post(url, data=data)
