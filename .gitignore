@@ -2,6 +2,7 @@
 __pycache__/
 *.py[cod]
 *$py.class
+avisos_utn.db
 
 # Virtual environments
 venv/
@@ -10,4 +11,5 @@ env/
 .env
 
 # Application specific
-cookies_utn.txt
+avisos_utn.db
+.env
